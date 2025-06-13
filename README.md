@@ -1,6 +1,7 @@
 # BLOCKDATATRUST BENCHMARK DATASET
 
 Authors: Rashmi Ratnayake, Madhusanka Liyanage, Liam Murphy
+
 School of Computer Science, University College Dublin, Ireland
 
 ----------
