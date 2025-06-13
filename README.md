@@ -8,6 +8,8 @@ School of Computer Science, University College Dublin, Ireland
 
 This repository provides a benchmark dataset for using machine learning models for blockchain data trustworthiness. The data is categorized into three major dimensions of trust, each with **balanced** and **imbalanced** versions. Supporting Jupyter notebooks are included for data generation, labeling using weak supervision (Snorkel), and exporting.
 
+📦 The full dataset can be downloaded from the [v1.0 release](https://github.com/RashmiRatnayake/BlockDataTrust-Benchmark-Dataset/releases/tag/v1.0).
+
 ---
 
 ## 📁 Dataset Files
